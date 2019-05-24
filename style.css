@@ -35,5 +35,5 @@ body {
 
 @font-face {
     font-family: Neon;
-    src: url("./Neon/Neon.TTF") format("truetype");
+    src: url("../Neon/Neon.TTF") format("truetype");
 }
